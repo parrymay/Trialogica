@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "Client\Client.csproj", "{4ECA0C05-F1FC-447E-ACD7-A284FF05651E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trialogica", "..\Trialogica\Trialogica.csproj", "{CD460539-891D-427E-B048-4EE79DC275E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "..\Test\Test.csproj", "{DB48790D-F53B-490A-A834-4CDEE35D033A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ECA0C05-F1FC-447E-ACD7-A284FF05651E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ECA0C05-F1FC-447E-ACD7-A284FF05651E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ECA0C05-F1FC-447E-ACD7-A284FF05651E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ECA0C05-F1FC-447E-ACD7-A284FF05651E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD460539-891D-427E-B048-4EE79DC275E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD460539-891D-427E-B048-4EE79DC275E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD460539-891D-427E-B048-4EE79DC275E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD460539-891D-427E-B048-4EE79DC275E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB48790D-F53B-490A-A834-4CDEE35D033A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB48790D-F53B-490A-A834-4CDEE35D033A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB48790D-F53B-490A-A834-4CDEE35D033A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB48790D-F53B-490A-A834-4CDEE35D033A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6723231-E6D2-4542-A4FB-C18D76CC6C2D}
+	EndGlobalSection
+EndGlobal
